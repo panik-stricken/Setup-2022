@@ -6,3 +6,5 @@ First point of interest, is that the projects panel seems to be geared to team c
 
 On the other hand... For a large application, with many moving parts, each being a seperate concern... Or for multiple concerns (say, the web trinity [ a | b | c ] )It __COULD__ be handy to have each one seperate yet linked... I feel like the psychotic break has just kicked in... Back off... Return after dinner.
 
+One of my daily tasks, at least for a while, is to collect ideas. the ideas will simply be thrown into a review period in the project, and at the end of that period, we will either add them to a next week target, or pass them into the next week review period. This will create, very quickly I imagine, quite a lot of tasks to get done, not all of which will I have the actual inclination to finish, or even maybe start, after we begin to gain momentum.
+
