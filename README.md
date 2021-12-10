@@ -8,3 +8,4 @@ On the other hand... For a large application, with many moving parts, each being
 
 One of my daily tasks, at least for a while, is to collect ideas. the ideas will simply be thrown into a review period in the project, and at the end of that period, we will either add them to a next week target, or pass them into the next week review period. This will create, very quickly I imagine, quite a lot of tasks to get done, not all of which will I have the actual inclination to finish, or even maybe start, after we begin to gain momentum.
 
+One of my tasks is to port this coallation project onto a private (?) server also. Not that anything is private these days. 
